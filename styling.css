@@ -1,0 +1,28 @@
+.up{
+    background-color: #1C1C1C;
+    color: #F6F6F6;
+}
+.photo1{
+    background-color: #f1c40f;
+    background-position: center;
+    background-size: 200px;
+    width: 62rem;
+    height: 26rem;
+    /* padding-left: 4rem; */
+    
+}
+.photo2{
+    background-color:#4cd964;
+    background-position: center;
+    /* background-size: 200px; */
+    width: 62rem;
+    height: 28rem;
+    
+}
+.photo3{
+    background-color:#603397;
+    background-position: center;
+    /* background-size: 200px; */
+    width: 62rem;
+    height: 29rem;
+}
